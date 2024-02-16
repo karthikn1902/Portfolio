@@ -1,0 +1,216 @@
+.one{
+    background-color: #a0c2df;
+    color: #f3f0ec;
+    padding-bottom: 2%;
+    font-size:xx-large;
+}
+.two{
+  padding-block: 5%;
+  padding-left: 17%;
+  padding-right: 5%;
+  text-align: left;
+  color: rgb(27, 25, 25);
+}
+.btn {
+      background-color: #1a3d68;
+      border-radius: 20%;
+      border-style: none;
+      box-sizing: border-box;
+      color: #fff;
+      cursor: pointer;
+      display: inline-block;
+      font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+      font-size: 25px;
+      font-weight: 700;
+      line-height: 1.5;
+      margin: 5;
+      max-width: none;
+      min-height: 44px;
+      min-width: 10px;
+      outline: none;
+      overflow: hidden;
+      padding: 9px 20px 8px;
+      padding-left: 2%;
+      padding-bottom: 2%;
+      padding-top: 2%;
+      padding-right: 2%;
+      position: relative;
+      text-align: left;
+      text-emphasis-position: center;
+      text-transform: none;
+      user-select: none;
+      -webkit-user-select: none;
+      touch-action: manipulation;
+      width: 8%;
+    }
+    
+    .button-31:hover,
+    .button-31:focus {
+      opacity: .75;
+    }
+
+.home{
+  background-color: #a2c7c5;
+  border-radius: 10%;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 5;
+  max-width: none;
+  min-height: 5%;
+  min-width: 10%;
+  outline: none;
+  overflow: hidden;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  position: relative;
+  text-align: center;
+  text-emphasis-position: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 8%;
+}
+
+.button-31:hover,
+.button-31:focus {
+  opacity: .75;
+}
+
+body{
+  background-color: snow;
+}
+.three{
+  background-color: #a0c2df;
+  color: #0b0b0b;
+  padding-bottom: 3%;
+  text-align: left;
+  block-size: 25%;
+}
+
+.popup-overlay{
+  background-color: rgb(11, 10, 10);
+  opacity: 0.8;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0%;
+  left: 0%;
+  z-index: 1;
+  display: none;
+}
+
+.popup-box{
+  background-color: #063660;
+  color: #fff;
+  width: 100%;
+  padding-bottom: 10%;
+  padding-left: 10%;
+  border-radius: 10px;
+  position: absolute;
+  top: 20%;
+  z-index: 2;
+  display: none;
+}
+
+.six{
+  text-align: center;
+}
+
+.glow-text{
+  text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00;
+}
+
+.detail{
+  background-color: #4a6362;
+  border-radius: 10%;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 5;
+  max-width: none;
+  min-height: 5%;
+  min-width: 10%;
+  outline: none;
+  overflow: hidden;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  position: relative;
+  text-align: center;
+  text-emphasis-position: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 8%;
+}
+
+.five-box{
+  background-color: #063660;
+  color: #fff;
+  width: 50%;
+  text-align: left;
+  margin-block-start: 37%;
+  margin-left: 15%;
+  block-size: 40%;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+  border-radius: 30px;
+  position: absolute;
+  top: 20%;
+  z-index: 2;
+  opacity: 0.8;
+  display: none;
+}
+
+
+.back{
+  background-color: #4a6362;
+  border-radius: 10%;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 5;
+  max-width: none;
+  min-height: 5%;
+  min-width: 15%;
+  outline: none;
+  overflow: hidden;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  padding-left: 0%;
+  padding-right: 0%;
+  position: relative;
+  text-align: center;
+  text-emphasis-position: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 8%;
+}
