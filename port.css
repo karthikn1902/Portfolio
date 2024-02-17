@@ -135,6 +135,7 @@ body{
   border-radius: 10%;
   border-style: none;
   box-sizing: border-box;
+  align-content: center;
   color: #fff;
   cursor: pointer;
   display: inline-block;
