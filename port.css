@@ -10,6 +10,8 @@
   padding-right: 5%;
   text-align: left;
   color: rgb(27, 25, 25);
+  font-style: normal;
+  text-align: center;
 }
 .btn {
       background-color: #1a3d68;
@@ -44,8 +46,8 @@
       width: 8%;
     }
     
-    .button-31:hover,
-    .button-31:focus {
+.button-31:hover,
+.button-31:focus {
       opacity: .75;
     }
 
